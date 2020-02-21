@@ -1,4 +1,4 @@
-Welcome to darksouls's documentation!
+Welcome to Dark Souls's documentation!
 =======================================
 
 .. toctree::

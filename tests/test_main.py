@@ -1,4 +1,4 @@
-import darksouls
+import dark_souls
 
 
 def test_main():

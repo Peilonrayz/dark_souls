@@ -1,26 +1,26 @@
-darksouls
-=========
+Dark Souls
+==========
 
-.. image:: https://travis-ci.com/Peilonrayz/game_darksouls.svg?branch=master
-   :target: https://travis-ci.com/Peilonrayz/game_darksouls
+.. image:: https://travis-ci.com/Peilonrayz/dark_souls.svg?branch=master
+   :target: https://travis-ci.com/Peilonrayz/dark_souls
    :alt: Build Status
 
 About
 -----
 
-This is a skeleton project to have a standardized and concrete base for all projects.
+Min max Dark Souls 3 builds.
 
 Installation
 ------------
 
 .. code:: shell
 
-   $ python -m pip install darksouls
+   $ python -m pip install dark_souls
 
 Documentation
 -------------
 
-Documentation is available `via GitHub <https://peilonrayz.github.io/game_darksouls/>`_.
+Documentation is available `via GitHub <https://peilonrayz.github.io/dark_souls/>`_.
 
 Testing
 -------
@@ -30,11 +30,11 @@ To run all tests run ``nox``. No venv is needed; nox makes all of them for us.
 .. code:: shell
 
    $ python -m pip install --user nox
-   $ git clone https://peilonrayz.github.io/game_darksouls/
-   $ cd game_darksouls
-   game_darksouls $ nox
+   $ git clone https://peilonrayz.github.io/dark_souls/
+   $ cd dark_souls
+   dark_souls $ nox
 
 License
 -------
 
-darksouls is available under the MIT license.
+Dark Souls is available under the MIT license.

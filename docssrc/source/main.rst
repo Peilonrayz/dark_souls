@@ -1,5 +1,5 @@
 Main
 ====
 
-.. automodule:: darksouls
+.. automodule:: dark_souls
    :members:

@@ -31,8 +31,4 @@ def max_level(n, curves):
 def max_levels(levels, curves):
     for n in range(levels + 1):
         total, a, bc, de = max(max_level(n, curves), key=lambda i: i[0])
-        yield total, [
-            (a, b, c, d, e)
-            for b, c in bc
-            for d, e in de
-        ]
+        yield total, [(a, b, c, d, e) for b, c in bc for d, e in de]
